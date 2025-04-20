@@ -1,0 +1,8 @@
+node_modules
+frontend/node_modules
+frontend/dist
+backend/node_modules
+backend/db/db.sqlite
+electron/node_modules
+out
+uploads
